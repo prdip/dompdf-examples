@@ -1,0 +1,17 @@
+{
+    "name": "main/gujarati",
+    "description": "No da",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Main\\Gujarati\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pradip Dev"
+        }
+    ]
+}
